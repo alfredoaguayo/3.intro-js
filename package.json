@@ -1,0 +1,16 @@
+{
+  "name": "worldcup2021.js",
+  "version": "1.0.0",
+  "description": "Simulador en JS sobre el campeonato mundial de futbol Qatar 2022. Práctica para KeepCoding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "introduccion",
+    "javascript"
+  ],
+  "author": "Alfredo Aguayo",
+  "license": "ISC",
+  "type": "module"
+}
